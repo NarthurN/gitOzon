@@ -13,5 +13,5 @@ func sum(a, b int) int {
 }
 
 func anotherSum(a, b int) int {
-	return a + b + 5
+	return 5 + 1
 }
