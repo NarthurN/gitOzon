@@ -10,3 +10,7 @@ func main() {
 func sum(a, b int) int {
 	return a + b
 }
+
+func anotherSum(a, b int) int {
+	return a + b + a + b
+}
