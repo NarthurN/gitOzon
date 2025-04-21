@@ -1,3 +1,4 @@
+//package to commit
 package main
 
 import "fmt"
@@ -12,5 +13,5 @@ func sum(a, b int) int {
 }
 
 func anotherSum(a, b int) int {
-	return a + b + a + b
+	return a + b + 1
 }
